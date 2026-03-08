@@ -1,0 +1,17 @@
+# pip install torch --index-url https://download.pytorch.org/whl/cpu
+
+torch==2.6.0+cpu
+
+sentence-transformers
+transformers
+"huggingface-hub>=0.34,<1.0"
+scikit-learn
+pandas
+numpy
+
+# sentence-transformers==2.7.0
+# transformers==4.41.2
+# huggingface-hub==0.23.4
+# scikit-learn
+# pandas
+# numpy
